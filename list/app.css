@@ -1,0 +1,20 @@
+#container{
+}
+
+.program{
+margin: 20px
+}
+
+span{
+  margin:20px
+}
+
+progress{
+  width: 600px;
+}
+
+.channel{
+  background-color: rgb(76, 76, 129);
+  color: azure;
+  border-radius: 3px;
+}
